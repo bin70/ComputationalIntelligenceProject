@@ -55,7 +55,7 @@
 17      if(n.m + n.s >= 3)  enQueue(n.b, n.s+n.m-3, 3)
 ```
 
-#代码运行及测试
+# 代码运行及测试
 
 ![运行结果](separate_oil.png)
 
